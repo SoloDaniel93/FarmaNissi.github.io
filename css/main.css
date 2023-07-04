@@ -82,7 +82,7 @@ h3
 
 .menu ul li{
     animation-name: opening-logo;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
     justify-content: center;
 }
@@ -96,7 +96,7 @@ h3
 
 .menu .logo img{
     animation-name: opening-logo;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
 }
 
@@ -130,7 +130,7 @@ h3
 {
     width: 64px;
     animation-name: opening-logo;
-    animation-duration: 1.5s;
+    animation-duration: 1s;
     animation-timing-function: ease-in-out;
 }
 
@@ -163,7 +163,7 @@ h3
 
 .main-video
 {
-    margin-top: 230px;
+    margin-top: 100px;
     transform-origin: 0 0;
     transform:skewY(-8deg);
     overflow: hidden;
