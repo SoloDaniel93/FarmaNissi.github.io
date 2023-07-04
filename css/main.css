@@ -79,7 +79,7 @@ h3
     display: flex;
     gap: 30px;
     
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .menu ul li{
@@ -88,7 +88,7 @@ h3
     animation-timing-function: ease-in-out;
     justify-content: center;
 
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .menu a
@@ -97,7 +97,7 @@ h3
     font-size: 1rem;
     justify-content: center;
 
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .menu .logo img{
@@ -123,7 +123,7 @@ h3
     align-items: center;
     justify-content: space-evenly;
     align-content: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .menu-mobile .header .logo
@@ -146,6 +146,7 @@ h3
     padding: 0;
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
 }
 
 .menu-mobile ul li
@@ -196,7 +197,7 @@ h3
     width: 100%;
     width: 320px;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 50px;
     padding-bottom: 100px;
 }
 
