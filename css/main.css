@@ -159,11 +159,11 @@ h3
     padding: 5px;
 }
 
-/*MAIN VIDEO
+/*MAIN VIDEO*/
 
 .main-video
 {
-    margin-top: 230px;
+    margin-top: 150px;
     transform-origin: 0 0;
     transform:skewY(-8deg);
     overflow: hidden;
@@ -179,7 +179,7 @@ h3
 .main-video .video video{
     width: 100%;
     margin-top: 100px;
-}*/
+}
 
 
 
